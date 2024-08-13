@@ -1,6 +1,5 @@
 Sigur, iată întregul fișier `README.md` scris în format Markdown:
 
-```markdown
 # Portfolio Management System
 
 ## Descriere
@@ -20,7 +19,7 @@ Această aplicație permite utilizatorilor să gestioneze un portofoliu online, 
 
 ```bash
 git clone https://github.com/CosminMihai73/Portofolio-Project
-```
+
 
 ### 2. Frontend
 
